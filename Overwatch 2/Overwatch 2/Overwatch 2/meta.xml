@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Overwatch 2</name>
+  <coder>Battle.net</coder>
+  <version>1.3</version>
+  <short_description>Overwatch 2 Wii Port</short_description> 
+  <long_description>
+   Controls:
+   Shoot - Left click
+   Aim - Right click
+   Jump - Spacebar
+   B - Emote
+   M - Map
+   Key Home - Go back to Homebrew Channel.
+   NOTE THAT OVERWATCH 2 NEEDS A COMPUTER RUNNING TIGHT VNC AND OVERWATCH 2 OPENED AND NEEDS A FASTER INTERNET CONNECTION. BTW YOU WILL REQUIRE A KEYBOARD AND MOUSE TO PLAY IT ON WII
+   </long_description> 
+</app>
